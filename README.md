@@ -4,14 +4,14 @@ Automation and systems work. I build tools that remove manual steps, then measur
 
 ## What I'm building
 
+**[sandbox-keepalive](https://github.com/lexcusishere/sandbox-keepalive)**
+Keeps a free-tier cloud sandbox awake through an activity lease, supervises workloads as systemd user units with checkpoints, and wakes the machine from outside after the platform stops it.
+
 **[instabox-waker](https://github.com/lexcusishere/instabox-waker)**
-GitHub Actions chain that keeps a sandbox with a 480 minute hard limit alive. Reads real run gaps from the Actions API instead of trusting `schedule` cron, then re-dispatches itself at 420 minutes, before the hard stop.
+GitHub Actions chain that survives a 480 minute hard limit. It reads real run gaps from the Actions API instead of trusting `schedule` cron, then re-dispatches itself at 420 minutes.
 
 **[devlog](https://github.com/lexcusishere/devlog)**
 Daily engineering log generated from machine telemetry: service uptime, commit activity, disk, running jobs. Entries carry the numbers they came from.
-
-**[samp-ai-actors](https://github.com/lexcusishere/samp-ai-actors)**
-SA-MP server actors wired to an LLM backend. Pawn on the server side, MySQL for state.
 
 ## Stack
 
