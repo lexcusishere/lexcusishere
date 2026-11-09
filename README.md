@@ -1,22 +1,17 @@
 # lexcus
 
-Automation and systems work. I build tools that remove manual steps, then measure whether they actually hold up.
+Automation and systems. I read code before I change it, and I ship the smallest diff that fixes the actual cause.
 
-## What I'm building
+## Focus
 
-**[sandbox-keepalive](https://github.com/lexcusishere/sandbox-keepalive)**
-Keeps a free-tier cloud sandbox awake through an activity lease, supervises workloads as systemd user units with checkpoints, and wakes the machine from outside after the platform stops it.
-
-**[instabox-waker](https://github.com/lexcusishere/instabox-waker)**
-GitHub Actions chain that survives a 480 minute hard limit. It reads real run gaps from the Actions API instead of trusting `schedule` cron, then re-dispatches itself at 420 minutes.
-
-**[devlog](https://github.com/lexcusishere/devlog)**
-Daily engineering log generated from machine telemetry: service uptime, commit activity, disk, running jobs. Entries carry the numbers they came from.
+Process supervision, Linux tooling, API clients, test coverage, documentation that has to match the code.
 
 ## Stack
 
 Python · TypeScript · Pawn · Java · Shell · Linux · systemd · GitHub Actions
 
-## Working notes
+## Open source
 
-Most of the work happens inside a Linux VM: process supervision, API reverse engineering, and tooling that survives a reboot. I would rather ship a small tool with a measured result than a large one with a promise.
+Contributions land as focused pull requests: one problem, one cause, one diff, with a reproduction in the description.
+
+If a fix I sent needs work, open an issue on the repo and it gets another look.
