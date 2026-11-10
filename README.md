@@ -4,10 +4,6 @@
 <img src="https://lexcusishere.github.io/assets/banner.svg" width="100%" alt="lexcus, automation, systems, tooling" />
 </a>
 
-<a href="https://github.com/lexcusishere">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=620&lines=I+build+tools+that+remove+manual+steps.;Then+I+measure+whether+they+hold.;Python+%C2%B7+TypeScript+%C2%B7+Pawn+%C2%B7+Java" alt="typing" />
-</a>
-
 </div>
 
 ---
@@ -31,7 +27,7 @@ Most of it lands as focused pull requests. One problem, one cause, one diff, wit
 <div align="center">
 
 <a href="https://lexcusishere.github.io"><img height="250" src="https://lexcusishere.github.io/assets/stats.svg" alt="stats" /></a>
-<a href="https://lexcusishere.github.io"><img height="250" src="https://streak-stats.demolab.com?user=lexcusishere&background=0D1117&border=30363D&stroke=D4AF37&ring=D4AF37&fire=F0C75E&currStreakLabel=D4AF37&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=8B949E&border_radius=10" alt="streak" /></a>
+<a href="https://lexcusishere.github.io"><img height="250" src="https://lexcusishere.github.io/assets/streak.svg" alt="streak" /></a>
 
 <a href="https://lexcusishere.github.io"><img width="48%" src="https://lexcusishere.github.io/assets/languages.svg" alt="languages" /></a>
 <a href="https://lexcusishere.github.io"><img width="48%" src="https://lexcusishere.github.io/assets/activity.svg" alt="activity" /></a>
