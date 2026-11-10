@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,50:14171A,100:0B0D10&height=210&section=header&text=lexcus&fontSize=68&fontColor=D4AF37&fontAlignY=38&desc=Automation%20%C2%B7%20Systems%20%C2%B7%20Tooling&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="lexcus" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=210&section=header&text=lexcus&fontSize=68&fontColor=D4AF37&fontAlignY=38&desc=Automation%20%C2%B7%20Systems%20%C2%B7%20Tooling&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="banner" />
 
 <a href="https://github.com/lexcusishere">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=620&lines=I+build+tools+that+remove+manual+steps.;Then+I+measure+whether+they+hold.;Python+%C2%B7+TypeScript+%C2%B7+Pawn+%C2%B7+Java" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=620&lines=I+build+tools+that+remove+manual+steps.;Then+I+measure+whether+they+hold.;Python+%C2%B7+TypeScript+%C2%B7+Pawn+%C2%B7+Java" alt="typing" />
 </a>
 
 </div>
@@ -28,11 +28,11 @@ Most of it lands as focused pull requests. One problem, one cause, one diff, wit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lexcusishere&show_icons=true&bg_color=0B0D10&title_color=D4AF37&icon_color=D4AF37&text_color=E6E8EB&border_color=2A2F36&border_radius=8&include_all_commits=true" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=lexcusishere&background=0B0D10&border=2A2F36&stroke=D4AF37&ring=D4AF37&fire=F0C75E&currStreakLabel=D4AF37&currStreakNum=E6E8EB&sideLabels=E6E8EB&sideNums=E6E8EB&dates=9AA0A6&border_radius=8" alt="streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lexcusishere&theme=github_dark" alt="stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=lexcusishere&background=0D1117&border=30363D&stroke=D4AF37&ring=D4AF37&fire=F0C75E&currStreakLabel=D4AF37&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=8B949E&border_radius=8" alt="streak" />
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lexcusishere&layout=compact&langs_count=8&bg_color=0B0D10&title_color=D4AF37&text_color=E6E8EB&border_color=2A2F36&border_radius=8" alt="languages" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lexcusishere&theme=github_dark&utcOffset=7" alt="productive time" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lexcusishere&theme=github_dark" alt="languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lexcusishere&theme=github_dark&utcOffset=7" alt="productive-time" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexcusishere&theme=github_dark" alt="activity" />
 
@@ -43,10 +43,10 @@ Most of it lands as focused pull requests. One problem, one cause, one diff, wit
 <div align="center">
 
 <a href="https://github.com/lexcusishere/instabox-waker">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lexcusishere&repo=instabox-waker&bg_color=0B0D10&title_color=D4AF37&icon_color=D4AF37&text_color=E6E8EB&border_color=2A2F36&border_radius=8" alt="instabox-waker" />
+<img width="48%" src="https://opengraph.githubassets.com/1/lexcusishere/instabox-waker" alt="instabox-waker" />
 </a>
 <a href="https://github.com/lexcusishere/samp-ai-actors">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lexcusishere&repo=samp-ai-actors&bg_color=0B0D10&title_color=D4AF37&icon_color=D4AF37&text_color=E6E8EB&border_color=2A2F36&border_radius=8" alt="samp-ai-actors" />
+<img width="48%" src="https://opengraph.githubassets.com/1/lexcusishere/samp-ai-actors" alt="samp-ai-actors" />
 </a>
 
 </div>
@@ -67,9 +67,9 @@ Pull requests against other people's projects, where the work is a bug fix with 
 
 <div align="center">
 
-<a href="https://github.com/lexcusishere"><img src="https://img.shields.io/badge/GitHub-lexcusishere-0B0D10?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=14171A" alt="github" /></a>
-<a href="https://github.com/lexcusishere?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0B0D10?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=14171A" alt="repositories" /></a>
-<a href="https://github.com/lexcusishere/lexcusishere/issues"><img src="https://img.shields.io/badge/Open%20an%20issue-0B0D10?style=for-the-badge&logo=githubactions&logoColor=D4AF37&labelColor=14171A" alt="issues" /></a>
+<a href="https://github.com/lexcusishere"><img src="https://img.shields.io/badge/GitHub-lexcusishere-0D1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=161B22" alt="github" /></a>
+<a href="https://github.com/lexcusishere?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=161B22" alt="repositories" /></a>
+<a href="https://github.com/lexcusishere/lexcusishere/issues"><img src="https://img.shields.io/badge/Open%20an%20issue-0D1117?style=for-the-badge&logo=githubactions&logoColor=D4AF37&labelColor=161B22" alt="issues" /></a>
 
 </div>
 
