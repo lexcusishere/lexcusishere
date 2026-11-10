@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=210&section=header&text=lexcus&fontSize=68&fontColor=D4AF37&fontAlignY=38&desc=Automation%20%C2%B7%20Systems%20%C2%B7%20Tooling&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="banner" />
+<a href="https://lexcusishere.github.io">
+<img src="https://lexcusishere.github.io/assets/banner.svg" width="100%" alt="lexcus, automation, systems, tooling" />
+</a>
 
 <a href="https://github.com/lexcusishere">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=620&lines=I+build+tools+that+remove+manual+steps.;Then+I+measure+whether+they+hold.;Python+%C2%B7+TypeScript+%C2%B7+Pawn+%C2%B7+Java" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=620&lines=I+build+tools+that+remove+manual+steps.;Then+I+measure+whether+they+hold.;Python+%C2%B7+TypeScript+%C2%B7+Pawn+%C2%B7+Java" alt="typing" />
 </a>
 
 </div>
@@ -14,7 +16,7 @@
 
 I work on automation and systems: process supervision, API clients, and tooling that survives a reboot. Long-running services, keepalive logic, and small utilities that replace a manual step.
 
-Most of it lands as focused pull requests. One problem, one cause, one diff, with a reproduction in the description. If a fix I sent needs work, it gets another look.
+Most of it lands as focused pull requests. One problem, one cause, one diff, with a reproduction in the description.
 
 ## Stack
 
@@ -28,13 +30,11 @@ Most of it lands as focused pull requests. One problem, one cause, one diff, wit
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lexcusishere&theme=github_dark" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=lexcusishere&background=0D1117&border=30363D&stroke=D4AF37&ring=D4AF37&fire=F0C75E&currStreakLabel=D4AF37&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=8B949E&border_radius=8" alt="streak" />
+<a href="https://lexcusishere.github.io"><img height="250" src="https://lexcusishere.github.io/assets/stats.svg" alt="stats" /></a>
+<a href="https://lexcusishere.github.io"><img height="250" src="https://streak-stats.demolab.com?user=lexcusishere&background=0D1117&border=30363D&stroke=D4AF37&ring=D4AF37&fire=F0C75E&currStreakLabel=D4AF37&currStreakNum=E6EDF3&sideLabels=E6EDF3&sideNums=E6EDF3&dates=8B949E&border_radius=10" alt="streak" /></a>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lexcusishere&theme=github_dark" alt="languages" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lexcusishere&theme=github_dark&utcOffset=7" alt="productive-time" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexcusishere&theme=github_dark" alt="activity" />
+<a href="https://lexcusishere.github.io"><img width="48%" src="https://lexcusishere.github.io/assets/languages.svg" alt="languages" /></a>
+<a href="https://lexcusishere.github.io"><img width="48%" src="https://lexcusishere.github.io/assets/activity.svg" alt="activity" /></a>
 
 </div>
 
@@ -74,5 +74,5 @@ Pull requests against other people's projects, where the work is a bug fix with 
 </div>
 
 <div align="center">
-<sub>Dark graphite, gold accent. Built to be read, not to be scrolled.</sub>
+<sub>Dark graphite, gold accent. Stats generated from the GitHub API, served as SVG.</sub>
 </div>
