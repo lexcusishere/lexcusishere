@@ -18,7 +18,7 @@ Most of it lands as focused pull requests. One problem, one cause, one diff, wit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,bash,linux,git,github,docker,mysql,redis,nginx&perline=12" alt="stack" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,bash,linux,git,github,docker,mysql&perline=10" alt="stack" />
 
 </div>
 
